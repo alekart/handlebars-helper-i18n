@@ -6,7 +6,7 @@
 
 The helper uses `language` variable that must match the name of your data
 
-- `{{i18n "Text to translate"}} - translate the text to the currently defined language
+- `{{i18n "Text to translate"}}` - translate the text to the currently defined language
 - `{{i18n "Text with %(var)s" var="variables"}}` - translate and place variables into translated text if no translation defined only the variable will be replaced
 - `{{i18n "Text to translate to another language" language="en"}}` - set another language for a translation, will ignore the global language and use provided one
 
