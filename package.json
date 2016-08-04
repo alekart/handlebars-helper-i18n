@@ -1,0 +1,25 @@
+{
+  "name": "handlebars-helper-i18n",
+  "version": "1.0.0",
+  "description": "Extended and fixed version of <http://github.com/helpers/handlebars-helper-i18n>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekart/handlebars-helper-i18n.git"
+  },
+  "keywords": [
+    "handlebars",
+    "helper",
+    "i18n",
+    "gettext"
+  ],
+  "author": "Aleksei Polechin (http://alek.be)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekart/handlebars-helper-i18n/issues"
+  },
+  "homepage": "https://github.com/alekart/handlebars-helper-i18n#readme"
+}
